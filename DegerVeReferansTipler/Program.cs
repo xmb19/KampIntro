@@ -30,7 +30,5 @@ class Program()
 
         //değişiklik
 
-
-
     }
 }

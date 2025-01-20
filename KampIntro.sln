@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{A84D687C-11F0-43FC-8CD5-BE1058F06B19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{A84D687C-11F0-43FC-8CD5-BE1058F06B19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{23931EED-3322-4483-A9BC-2C51520F79DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{23931EED-3322-4483-A9BC-2C51520F79DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{CA09ED60-9DE3-47AC-8236-6CA52CC7DD32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{CA09ED60-9DE3-47AC-8236-6CA52CC7DD32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{7214C819-4345-45AE-A66F-C1ABB48F010F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{7214C819-4345-45AE-A66F-C1ABB48F010F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{C1C9467E-265D-4418-AF89-09525BD9409E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{C1C9467E-265D-4418-AF89-09525BD9409E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop2", "Oop2\Oop2.csproj", "{4C2EE8F3-D64C-4ABA-A754-9FE4D3643F33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{BFD29860-DAE6-4CA0-AE5A-829D6A041236}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,8 +43,19 @@ Global
 		{C1C9467E-265D-4418-AF89-09525BD9409E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1C9467E-265D-4418-AF89-09525BD9409E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1C9467E-265D-4418-AF89-09525BD9409E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2EE8F3-D64C-4ABA-A754-9FE4D3643F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2EE8F3-D64C-4ABA-A754-9FE4D3643F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2EE8F3-D64C-4ABA-A754-9FE4D3643F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2EE8F3-D64C-4ABA-A754-9FE4D3643F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD29860-DAE6-4CA0-AE5A-829D6A041236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD29860-DAE6-4CA0-AE5A-829D6A041236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD29860-DAE6-4CA0-AE5A-829D6A041236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD29860-DAE6-4CA0-AE5A-829D6A041236}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1914263B-B96D-4F7C-AEAB-CF953BB85CA5}
 	EndGlobalSection
 EndGlobal
