@@ -28,6 +28,8 @@ class Program()
           sayilar2 -----> 102/ [100,200,300]
         */
 
+        //değişiklik
+
 
 
     }
